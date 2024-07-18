@@ -1,0 +1,5 @@
+let myDate = new Date()
+console.log(myDate.toString())
+let presentTime=Date.now()
+console.log(presentTime)
+console.log(myDate.toString())
